@@ -15,7 +15,7 @@ public interface ApiConstants {
     /**
      * 用户端接口默认前缀
      */
-    String API_USER = "hm-api/";
+    String API_USER = "jh-shop-api/";
 
     /**
      * feign调用默认接口前缀
